@@ -2,10 +2,10 @@
 **Product Designer**
 
 📍 Remote Available | Córdoba, Argentina  
-📞 +54 9 351-390 29 40  
+📞 [+54 9 351-390 29 40](https://api.whatsapp.com/send/?phone=5493513902940&text=Hola%2C+I%27m+contacting+you+to+learn+more+about+your+Portfolio.+My+name+is…)  
 📧 javier.issoglio@gmail.com  
 👔 [LinkedIn](https://linkedin.com/in/javier-issoglio)  
-🌐 [Portfolio](https://yourportfolio.com)  
+🌐 [Portfolio](https://github.com/JavIsso/Cv-Porfolio)  
 
 ---
 
