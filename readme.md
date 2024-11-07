@@ -5,7 +5,7 @@
 📞 [+54 9 351-390 29 40](https://api.whatsapp.com/send/?phone=5493513902940&text=Hola%2C+I%27m+contacting+you+to+learn+more+about+your+Portfolio.+My+name+is…)  
 📧 javier.issoglio@gmail.com  
 👔 [LinkedIn](https://linkedin.com/in/javier-issoglio)  
-🌐 [Portfolio](https://github.com/JavIsso/Cv-Porfolio/blob/main/Portfolio%20-%20Javier%20Issoglio%20-%20Product%20Designer.pdf)  
+⬇️ [Portfolio](https://github.com/JavIsso/Cv-Porfolio/blob/main/Portfolio%20-%20Javier%20Issoglio%20-%20Product%20Designer.pdf)  
 
 ---
 
