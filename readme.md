@@ -126,3 +126,7 @@ Adobe Illustrator, Photoshop, InDesign, After Effects, Premiere Pro, Audition, A
 - Effective Communication
 - Creativity and Innovation
 - Critical Thinking and Problem Solving
+
+## Languages
+- Spanish: Native
+- English: Intermediate [(B1/B2 according to EFSET)](https://cert.efset.org/en/score/quickcheck/85)
