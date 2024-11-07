@@ -2,7 +2,7 @@
 **Product Designer**
 
 📍 Remote Available | Córdoba, Argentina  
-📞 [+54 9 351-390 29 40](https://api.whatsapp.com/send/?phone=5493513902940&text=Hola%2C+I%27m+contacting+you+to+learn+more+about+your+Portfolio.+My+name+is…)  
+📞 [+54 9 351-390 29 40](https://wa.me/5493513902940?text=Hi!%2C+I%27m+contacting+you+to+learn+more+about+your+Portfolio.+My+name+is...)  
 📧 javier.issoglio@gmail.com  
 👔 [LinkedIn](https://linkedin.com/in/javier-issoglio)  
 ⬇️ [Portfolio](https://github.com/JavIsso/Cv-Porfolio/blob/main/Portfolio%20-%20Javier%20Issoglio%20-%20Product%20Designer.pdf)  
@@ -16,8 +16,8 @@ Product Designer with over 17 years of experience in multimedia design and creat
 
 ## Professional Experience
 
-### CEO Founder & Product Designer | LiRO - Online Pet Medical Records | ARG
-*August 2019 - Present*
+### CEO Founder & Product Designer | LiRO - Online Pet Medical Records | ARG	🔷[LinkedIn](https://www.linkedin.com/company/liro-pet/) | 🔷[liro.pet](http://liro.pet) 
+*August 2019 - Present* [Hybrid]
 
 - Designed and implemented the user experience and interface of a digital platform for pet medical records, enhancing animal health management.
 - Conducted user research and market analysis, tailoring the user experience to the needs of veterinarians and pet owners.
@@ -29,7 +29,7 @@ Product Designer with over 17 years of experience in multimedia design and creat
 ---
 
 ### Senior Product Designer & 3D Team Leader | QMARQ | CA
-*September 2023 - September 2024*
+*September 2023 - September 2024* [Remote]
 
 - Aligned product design with customer requirements and latest technology trends to deliver an optimal user experience.
 - Led a team of 3D artists, ensuring consistency with design guidelines and seamless Unity integration.
@@ -41,7 +41,7 @@ Product Designer with over 17 years of experience in multimedia design and creat
 ---
 
 ### Product Designer & 3D Team Leader | Game Cloud Network | CA
-*September 2021 - August 2023*
+*September 2021 - August 2023* [Remote]
 
 - Led the production of two games, working closely with Project Management and Art Direction for workflow optimization.
 - Supervised a team of six 3D artists, significantly reducing error margins.
@@ -53,7 +53,7 @@ Product Designer with over 17 years of experience in multimedia design and creat
 ---
 
 ### Product Designer of Educational Content | Infoclima S.A. | ARG
-*June 2016 - December 2018*
+*June 2016 - December 2018* [Hybrid]
 
 - Managed end-to-end post-production for each YouTube episode, achieving exponential audience growth.
 - Designed and animated episode graphics, enhancing visual storytelling.
@@ -65,7 +65,7 @@ Product Designer with over 17 years of experience in multimedia design and creat
 ---
 
 ### Graphic Designer & Multimedia Creator | Holcim S.A. | ARG
-*January 2009 - December 2022*
+*January 2009 - December 2022* [Hybrid]
 
 - Transformed safety manuals into digital E-learning formats, providing accessible training for Latin America.
 - Designed signage for both internal and external branding, ensuring brand consistency.
@@ -77,7 +77,7 @@ Product Designer with over 17 years of experience in multimedia design and creat
 ---
 
 ### Freelance Multimedia & Product Designer | ARG
-*January 2005 - Present*
+*January 2005 - Present* [Hybrid]
 
 - Partnered with clients across technology, education, and entertainment sectors, delivering custom multimedia solutions.
 - Led end-to-end design processes, from concept art to final asset delivery.
@@ -129,4 +129,4 @@ Adobe Illustrator, Photoshop, InDesign, After Effects, Premiere Pro, Audition, A
 
 ## Languages
 - Spanish: Native
-- English: Intermediate [(B1/B2 according to EFSET)](https://cert.efset.org/en/score/quickcheck/85)
+- English: Intermediate (B1/B2 according to EFSET)
