@@ -6,6 +6,7 @@
 📧 javier.issoglio@gmail.com  
 👔 [LinkedIn](https://linkedin.com/in/javier-issoglio)  
 ⬇️ [Portfolio](https://github.com/JavIsso/Cv-Porfolio/blob/main/Portfolio%20-%20Javier%20Issoglio%20-%20Product%20Designer.pdf)  
+🎨 [ArtStation](https://www.artstation.com/jissoglio)
 
 ---
 
