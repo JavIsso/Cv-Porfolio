@@ -90,6 +90,16 @@ Product Designer with over 17 years of experience in multimedia design and creat
 
 ---
 
+### Multimedia Designer | Kluster Kairos | ARG
+*May 2005 - December 2008* [On-Site]
+
+- Designed and animated graphics that enhanced episode storytelling and maintained visual consistency across the series. Used Adobe Illustrator, Photoshop, After Effects, and Blender to create a polished and memorable viewer experience.
+- Transformed paper-based safety manuals into digital E-learning formats with interactive assessment systems for training employees and new hires. This shift reduced reading times and provided accessible, engaging training. Tools: Google Docs, MS Word, Adobe Acrobat Pro, Illustrator, Photoshop, Adobe Flash, Audition, Corel, After Effects, Premiere Pro, Blender 3D.
+- Designed and developed interactive manuals, animations, and video content for e-learning platforms, marketing campaigns, and corporate training. Used tools like Blender, Adobe Suite, Macromedia Flash, to create engaging and educational content that achieved high user satisfaction rates.
+- Developed high-fidelity prototypes and wireframes for web games, adhering to client requirements and the Art Director’s vision. Leveraged tools such as Blender 3D, After Effects, Flash, Illustrator, and Photoshop to deliver polished, production-ready assets and interfaces.
+
+---
+
 ### Freelance Multimedia & Product Designer | ARG
 *January 2005 - Present* [Hybrid]
 
