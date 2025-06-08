@@ -17,6 +17,19 @@ Product Designer with over 17 years of experience in multimedia design and creat
 
 ## Professional Experience
 
+### Product Owner | TGA - Transformación Gamificada de Aprendizajes | ARG
+*January 2025 - Present* [Remote]
+
+- Supported the product team to ensure clear, complete, and timely deliveries to the development team, saving weeks of delays and accelerating production timelines.
+- Optimized asset loading and reduced the size of applications and games, improving overall performance.
+- Enhanced the discovery and design process by leveraging my previous experience in corporate training.
+- In the Edenor project, helped strengthen client relationships by establishing clearer and simpler workflows between TGA and the client.
+- Actively proposed improvements to increase product quality and clarity from the client's perspective.
+
+**Tools:** Jira, Miro, Figma, Google Drive, Slack, Tempo, Confluence, Drive, ChatGPT, Adobe After Effects.
+
+---
+
 ### CEO Founder & Product Designer | LiRO - Online Pet Medical Records | ARG	🔷[LinkedIn](https://www.linkedin.com/company/liro-pet/) | 🔷[liro.pet](http://liro.pet) 
 *August 2019 - Present* [Hybrid]
 
