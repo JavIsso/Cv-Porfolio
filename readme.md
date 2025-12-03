@@ -1,4 +1,4 @@
-# Javier Issoglio
+# Javier E. Issoglio
 **Product Designer**
 
 📍 Remote Available | Córdoba, Argentina  
