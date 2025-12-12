@@ -6,7 +6,7 @@
 📧 javier.issoglio@gmail.com  
 👔 [LinkedIn](https://linkedin.com/in/javier-issoglio)  
 ⬇️ [Portfolio](https://github.com/JavIsso/Cv-Porfolio/blob/main/Portfolio%20-%20Javier%20Issoglio%20-%20Product%20Designer.pdf)  
-🎨 [ArtStation](https://www.artstation.com/jissoglio)
+🎨 [ArtStation](https://www.artstation.com/jissoglio) 
 
 ---
 
@@ -82,8 +82,8 @@ Product Designer with over 17 years of experience in multimedia design and creat
 
 ---
 
-### Multimedia Design Instructor | CISE � Webdoor | ARG
-*May 2013 � December 2014* [On-site]
+### Multimedia Design Instructor | CISE   Webdoor | ARG
+*May 2013   December 2014* [On-site]
 
 - Designed the full 9-month curriculum for the Multimedia Design program, integrating foundational and advanced creative skills.
 - Taught and mentored over 20 students, providing guidance across design principles, digital workflows, and multimedia production.
