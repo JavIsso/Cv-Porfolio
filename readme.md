@@ -11,7 +11,7 @@
 ---
 
 ## Summary
-Product Designer with over 17 years of experience in multimedia design and creative direction, specializing in user-centered design, workflow optimization, and cross-functional collaboration. Skilled in Adobe XD, Blender, Unity, and various project management tools, with a passion for creating engaging, functional, and visually compelling products that exceed user expectations. Proven ability to optimize processes, improve usability, and elevate the overall quality of digital products.
+Product Designer with over 17 years of experience in multimedia design and creative direction, specializing in user-centered design, workflow optimization, and cross-functional collaboration. Skilled in Adobe XD, Blender, Unity, and various project management tools, with an intermediate English proficiency  (B1/B2) enabling effective communication in international settings. Passionate about creating engaging, functional, and visually compelling products that exceed user expectations. Proven ability to optimize processes, improve usability, and elevate the overall quality of digital products.
 
 ---
 ## Achievements
@@ -38,7 +38,7 @@ Achieved a smooth and successful launch across web and mobile platforms by ensur
 **Tech & Methods:**
 Product Ownership, Cross-functional Leadership, Agile, Jira, Miro, Figma, Documentation Frameworks.
 
-### Game Cloud Network
+### 🌐[Game Cloud Network](https://www.gamecloudnet.com/)
 
 **What:**
 Led product design and 3D production for mobile games, overseeing end-to-end delivery across multiple titles.
@@ -56,11 +56,10 @@ Product Design, Workflow Optimization, Scrum, Agile, Jira, Miro, Blender 3D, Ado
 ### Product Owner | TGA - Video games for corporate training | ARG
 *January 2025 - Present* [Remote]
 
-- 🌐[Edenor - web](https://www.aventuraedenor.com/) 👾[Edenor - Android](https://play.google.com/store/apps/details?) 🍏 [Edenor - Apple](https://apps.apple.com/us/app/aventura-edenor/id6747455255)
+- Contributed directly to the public release across web and mobile platforms: 🌐[Edenor - web](https://www.aventuraedenor.com/) | 👾[Edenor - Android](https://play.google.com/store/apps/details?id=com.tga.edenoraventuras&hl=es_AR) | 🍏 [Edenor - Apple](https://apps.apple.com/us/app/aventura-edenor/id6747455255)
 - Played a key role in the successful launch of a large-scale educational game for a major electric utility company in Buenos Aires, Argentina, actively supporting product readiness from conception to release.
 - Acted as the main product counterpart for the client, providing continuous guidance, alignment, and decision-making support throughout the project lifecycle, which proved critical for a smooth and successful launch.
 - Ensured product quality, usability, and clarity by closely collaborating with the client and internal teams, helping translate business and educational needs into a polished, market-ready experience.
-Contributed directly to the public release across web and mobile platforms:
 - Led the Product area and coordinated cross-functional collaboration among 20+ team members, ensuring alignment, clarity, and effective execution across development, learning, design, delivery, and commercial teams.
 - Strengthened product workflows by establishing consistent naming systems, documentation standards, and improved Jira practices, raising operational quality across multiple projects.
 - Co-created new gameplay mechanics and structured progressive difficulty systems, enhancing product depth and user engagement while aligning design and development teams around a shared vision.
@@ -72,8 +71,8 @@ Contributed directly to the public release across web and mobile platforms:
 
 ### CEO Founder & Product Designer | LiRO - Online Pet Medical Records | ARG	
 *August 2019 - Present* [Hybrid]
-- 🔷[LinkedIn](https://www.linkedin.com/company/liro-pet/) | 🌐[LiRO.pet](http://liro.pet/) 👾[LiRO - Playstore](https://play.google.com/store/apps/details?id=com.liro.app)
-- Led a multidisciplinary team of 4 collaborators, guiding product vision, prioritization, and execution across design, development, and content.
+- 🔷[LinkedIn](https://www.linkedin.com/company/liro-pet/) | 🌐[LiRO.pet](http://liro.pet/) | 👾[LiRO - Playstore](https://play.google.com/store/apps/details?id=com.liro.app)
+- Lead a multidisciplinary team of 4 collaborators, guiding product vision, prioritization, and execution across design, development, and content.
 - Designed and implemented the user experience and interface of a digital platform for pet medical records, enhancing animal health management.
 - Conducted user research and market analysis, tailoring the user experience to the needs of veterinarians and pet owners.
 - Collaborated with the development team on prototypes and wireframes for smooth project transitions.
@@ -83,12 +82,11 @@ Contributed directly to the public release across web and mobile platforms:
 
 ---
 
-### Senior Product Designer & 3D Team Leader | QMARQ | CA
+### Senior Product Designer & 3D Team Leader | 🌐[QMARQ](https://www.qmarq.com/) | CA
 *September 2023 - September 2024* [Remote]
 
-- Led a multidisciplinary team of 4 collaborators.
-- Aligned product design with customer requirements and latest technology trends to deliver an optimal user experience.
 - Led a team of 3D artists, ensuring consistency with design guidelines and seamless Unity integration.
+- Aligned product design with customer requirements and latest technology trends to deliver an optimal user experience.
 - Created high-quality 3D assets for augmented reality using Blender 3D and Substance tools.
 - Coordinated with Product and Project Management on scheduling and task prioritization.
 
@@ -108,7 +106,7 @@ Contributed directly to the public release across web and mobile platforms:
 
 ---
 
-### Product Designer of Educational Content | Infoclima S.A. | ARG
+### Product Designer of Educational Content |  🌐[Infoclima S.A.](https://infoclima.com/videos/educativos) | ARG
 *June 2016 - December 2018* [Hybrid]
 
 - Managed end-to-end post-production for each YouTube episode, achieving exponential audience growth.
@@ -156,7 +154,7 @@ Contributed directly to the public release across web and mobile platforms:
 
 ---
 
-### Additional Education
+## Additional Education
 
 - **Game Design**  
   Image Campus, ARG | April 2024 - December 2024
@@ -177,19 +175,18 @@ Contributed directly to the public release across web and mobile platforms:
 ## Technical Skills
 
 **Product Design Tools:**  
-Adobe Illustrator, Photoshop, InDesign, After Effects, Premiere Pro, Audition, Adobe XD, Media Encoder, Figma.
-Blender, Substance Painter, Substance Sampler, Unity, Unreal Engine.
+- Adobe Creative Suite (Illustrator|  Photoshop|  InDesign | After Effects | Premiere Pro | Audition | Adobe XD | Media Encoder) | Figma.
+- Blender, Substance Painter, Substance Sampler, Unity, Unreal Engine.
 
 **Communication and Organization Tools:**  
-Jira, GitLab, Trello, ClickUp, MiRO, GitHub, Fork, Slack, Discord, Microsoft Teams, Google Meet, Zoom, Airtable.
+- Jira, GitLab, Trello, ClickUp, MiRO, GitHub, Fork, Slack, Discord, Microsoft Teams, Google Meet, Zoom, Airtable.
 
 **Ai tools:**  
-Google Gemini, ChatGPT, Leonardo.ai, N8N, Make, Claude.
+- Google Gemini, ChatGPT, Leonardo.ai, N8N, Make, Claude.
 
 ---
 
 ## Soft Skills
-
 - Collaborative Leadership
 - Results Orientation
 - Effective Communication
