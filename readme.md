@@ -14,25 +14,60 @@
 Product Designer with over 17 years of experience in multimedia design and creative direction, specializing in user-centered design, workflow optimization, and cross-functional collaboration. Skilled in Adobe XD, Blender, Unity, and various project management tools, with a passion for creating engaging, functional, and visually compelling products that exceed user expectations. Proven ability to optimize processes, improve usability, and elevate the overall quality of digital products.
 
 ---
+### Achievements
+
+## 🌐[LiRO](https://www.liro.pet/) – Online Pet Medical Records 
+
+**What:** Founded and led the product vision and execution of a digital platform replacing paper-based veterinary medical records with a centralized online system.
+
+**How:** Defined product strategy, UX architecture, and workflows; led a multidisciplinary team of 4 collaborators; worked closely with veterinarians to align the product with real-world operational needs.
+
+**Impact:** Enabled veterinarians to fully eliminate paper records, increased client return rates through automated vaccination and deworming reminders, and reduced in-clinic administrative time by over 50%.
+
+**Tech & Methods:** Product Strategy, UX/UI Design, Agile, Scrum, User Research, Figma, Jira, GitLab, Adobe Suite, ChatGPT, Gemini.
+
+## 🌐[TGA](https://tgacompany.com/index.html) – Video games for corporate training
+
+**What:** Led product ownership and delivery for large-scale gamified educational products, including the successful public launch of a multi-platform educational game.
+
+**How:** Acted as formal Product Owner and primary bridge between client, development, design, learning, and delivery teams; defined gameplay systems, documentation standards, and delivery processes.
+
+**Impact:** Achieved a smooth and successful launch across web and mobile platforms by ensuring product clarity, alignment, and readiness; significantly reduced delivery friction and rework through early issue detection and structured documentation.
+
+**Tech & Methods:** Product Ownership, Cross-functional Leadership, Agile, Jira, Miro, Figma, Notion, Documentation Frameworks, AI-assisted workflows (ChatGPT, internal GPTs).
+
+## Game Cloud Network
+
+**What:** Led product design and 3D production for mobile games, overseeing end-to-end delivery across multiple titles.
+
+**How:** Supervised and coordinated a team of 6 3D artists, defined production workflows, and collaborated closely with project management and art direction to optimize pipelines.
+
+**Impact:** Reduced error margins and rework by standardizing asset production processes, improving delivery consistency and overall production efficiency.
+
+**Tech & Methods:** Product Design, Workflow Optimization, Scrum, Agile, Jira, Miro, Blender 3D, Adobe XD, Substance Painter.
+
+---
 
 ## Professional Experience
 
-### Product Owner | TGA - Transformación Gamificada de Aprendizajes | ARG
+### Product Owner | TGA - Video games for corporate training | ARG
 *January 2025 - Present* [Remote]
 
+- 🌐[Edenor - web](https://www.aventuraedenor.com/) 👾[Edenor - Android](https://play.google.com/store/apps/details?) 🍏 [Edenor - Apple](https://apps.apple.com/us/app/aventura-edenor/id6747455255)
+- Played a key role in the successful launch of a large-scale educational game for a major electric utility company in Buenos Aires, Argentina, actively supporting product readiness from conception to release.
+- Acted as the main product counterpart for the client, providing continuous guidance, alignment, and decision-making support throughout the project lifecycle, which proved critical for a smooth and successful launch.
+- Ensured product quality, usability, and clarity by closely collaborating with the client and internal teams, helping translate business and educational needs into a polished, market-ready experience.
+Contributed directly to the public release across web and mobile platforms:
 - Led the Product area and coordinated cross-functional collaboration among 20+ team members, ensuring alignment, clarity, and effective execution across development, learning, design, delivery, and commercial teams.
 - Strengthened product workflows by establishing consistent naming systems, documentation standards, and improved Jira practices, raising operational quality across multiple projects.
-- Acted as a strategic bridge between teams, proactively identifying technical, visual, and gameplay issues long before they reached QA, accelerating problem-resolution and preventing costly rework.
-- Designed clear, scalable documentation frameworks that are now being adopted across the company, improving communication with QA, stakeholders, and clients.
 - Co-created new gameplay mechanics and structured progressive difficulty systems, enhancing product depth and user engagement while aligning design and development teams around a shared vision.
-- Introduced AI-driven workflows by creating an internal PO-Assistant GPT and organizing project documentation systems, enabling faster decision-making and more efficient information retrieval.
 - Supported development to ensure assets and deliverables were unblocked and ready on time, significantly reducing friction and increasing production velocity.
 
 **Tools:** Jira, Miro, Figma, Notion, Slack, Tempo, Confluence, Google Workspace, ChatGPT, Gemini, Adobe Creative Suite (AE / PR).
 
 ---
 
-### CEO Founder & Product Designer | LiRO - Online Pet Medical Records | ARG	🔷[LinkedIn](https://www.linkedin.com/company/liro-pet/) | 🔷[liro.pet](http://liro.pet) 
+### CEO Founder & Product Designer | LiRO - Online Pet Medical Records | ARG	🔷[LinkedIn](https://www.linkedin.com/company/liro-pet/) | 🔷[liro.pet](http://liro.pet) 🔷[Playstore](https://play.google.com/store/apps/details?id=com.liro.app)
 *August 2019 - Present* [Hybrid]
 
 - Led a multidisciplinary team of 4 collaborators, guiding product vision, prioritization, and execution across design, development, and content.
@@ -138,17 +173,15 @@ Product Designer with over 17 years of experience in multimedia design and creat
 
 ## Technical Skills
 
+**Product Design Tools:**  
+Adobe Illustrator, Photoshop, InDesign, After Effects, Premiere Pro, Audition, Adobe XD, Media Encoder, Figma.
+Blender, Substance Painter, Substance Sampler, Unity, Unreal Engine.
+
 **Communication and Organization Tools:**  
 Jira, GitLab, Trello, ClickUp, MiRO, GitHub, Fork, Slack, Discord, Microsoft Teams, Google Meet, Zoom, Airtable.
 
 **Ai tools:**  
 Google Gemini, ChatGPT, Leonardo.ai, N8N, Make, Claude.
-
-**3D Tools:**  
-Blender, Substance Painter, Substance Sampler, Unity, Unreal Engine.
-
-**Multimedia Design Tools:**  
-Adobe Illustrator, Photoshop, InDesign, After Effects, Premiere Pro, Audition, Adobe XD, Media Encoder, Figma.
 
 ---
 
