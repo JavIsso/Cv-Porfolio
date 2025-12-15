@@ -1,5 +1,5 @@
 # Javier E. Issoglio
-**Product Designer**
+## **Product Designer**
 
 📍 Remote Available | Córdoba, Argentina  
 📞 [+54 9 351-390 29 40](https://wa.me/5493513902940?text=Hi!%2C+I%27m+contacting+you+to+learn+more+about+your+Portfolio.+My+name+is...)  
@@ -14,37 +14,40 @@
 Product Designer with over 17 years of experience in multimedia design and creative direction, specializing in user-centered design, workflow optimization, and cross-functional collaboration. Skilled in Adobe XD, Blender, Unity, and various project management tools, with a passion for creating engaging, functional, and visually compelling products that exceed user expectations. Proven ability to optimize processes, improve usability, and elevate the overall quality of digital products.
 
 ---
-### Achievements
+## Achievements
 
-## 🌐[LiRO](https://www.liro.pet/) – Online Pet Medical Records 
+### 🌐[LiRO](https://www.liro.pet/) – Online Pet Medical Records 
 
-**What:** Founded and led the product vision and execution of a digital platform replacing paper-based veterinary medical records with a centralized online system.
+**What:**
+Founded and led the product vision and execution of a digital platform replacing paper-based veterinary medical records with a centralized online system.
+**How:**
+Defined product strategy, UX architecture, and workflows; led a multidisciplinary team of 4 collaborators; worked closely with veterinarians to align the product with real-world operational needs.
+**Impact:**
+Enabled veterinarians to fully eliminate paper records, increased client return rates through automated vaccination and deworming reminders, and reduced in-clinic administrative time by over 50%.
+**Tech & Methods:**
+Product Strategy, UX/UI Design, Agile, Scrum, User Research, Figma, Jira, GitLab, Adobe Suite, ChatGPT, Gemini.
 
-**How:** Defined product strategy, UX architecture, and workflows; led a multidisciplinary team of 4 collaborators; worked closely with veterinarians to align the product with real-world operational needs.
+### 🌐[TGA](https://tgacompany.com/index.html) – Video games for corporate training
 
-**Impact:** Enabled veterinarians to fully eliminate paper records, increased client return rates through automated vaccination and deworming reminders, and reduced in-clinic administrative time by over 50%.
+**What:**
+Led product ownership and delivery for large-scale gamified educational products, including the successful public launch of a multi-platform educational game.
+**How:**
+Acted as formal Product Owner and primary bridge between client, development, design, learning, and delivery teams; defined gameplay systems, documentation standards, and delivery processes.
+**Impact:**
+Achieved a smooth and successful launch across web and mobile platforms by ensuring product clarity, alignment, and readiness; significantly reduced delivery friction and rework through early issue detection and structured documentation.
+**Tech & Methods:**
+Product Ownership, Cross-functional Leadership, Agile, Jira, Miro, Figma, Documentation Frameworks.
 
-**Tech & Methods:** Product Strategy, UX/UI Design, Agile, Scrum, User Research, Figma, Jira, GitLab, Adobe Suite, ChatGPT, Gemini.
+### Game Cloud Network
 
-## 🌐[TGA](https://tgacompany.com/index.html) – Video games for corporate training
-
-**What:** Led product ownership and delivery for large-scale gamified educational products, including the successful public launch of a multi-platform educational game.
-
-**How:** Acted as formal Product Owner and primary bridge between client, development, design, learning, and delivery teams; defined gameplay systems, documentation standards, and delivery processes.
-
-**Impact:** Achieved a smooth and successful launch across web and mobile platforms by ensuring product clarity, alignment, and readiness; significantly reduced delivery friction and rework through early issue detection and structured documentation.
-
-**Tech & Methods:** Product Ownership, Cross-functional Leadership, Agile, Jira, Miro, Figma, Notion, Documentation Frameworks, AI-assisted workflows (ChatGPT, internal GPTs).
-
-## Game Cloud Network
-
-**What:** Led product design and 3D production for mobile games, overseeing end-to-end delivery across multiple titles.
-
-**How:** Supervised and coordinated a team of 6 3D artists, defined production workflows, and collaborated closely with project management and art direction to optimize pipelines.
-
-**Impact:** Reduced error margins and rework by standardizing asset production processes, improving delivery consistency and overall production efficiency.
-
-**Tech & Methods:** Product Design, Workflow Optimization, Scrum, Agile, Jira, Miro, Blender 3D, Adobe XD, Substance Painter.
+**What:**
+Led product design and 3D production for mobile games, overseeing end-to-end delivery across multiple titles.
+**How:**
+Supervised and coordinated a team of 6 3D artists, defined production workflows, and collaborated closely with project management and art direction to optimize pipelines.
+**Impact:**
+Reduced error margins and rework by standardizing asset production processes, improving delivery consistency and overall production efficiency.
+**Tech & Methods:**
+Product Design, Workflow Optimization, Scrum, Agile, Jira, Miro, Blender 3D, Adobe XD, Substance Painter.
 
 ---
 
@@ -67,9 +70,9 @@ Contributed directly to the public release across web and mobile platforms:
 
 ---
 
-### CEO Founder & Product Designer | LiRO - Online Pet Medical Records | ARG	🔷[LinkedIn](https://www.linkedin.com/company/liro-pet/) | 🔷[liro.pet](http://liro.pet) 🔷[Playstore](https://play.google.com/store/apps/details?id=com.liro.app)
+### CEO Founder & Product Designer | LiRO - Online Pet Medical Records | ARG	
 *August 2019 - Present* [Hybrid]
-
+- 🔷[LinkedIn](https://www.linkedin.com/company/liro-pet/) | 🌐[LiRO.pet](http://liro.pet/) 👾[LiRO - Playstore](https://play.google.com/store/apps/details?id=com.liro.app)
 - Led a multidisciplinary team of 4 collaborators, guiding product vision, prioritization, and execution across design, development, and content.
 - Designed and implemented the user experience and interface of a digital platform for pet medical records, enhancing animal health management.
 - Conducted user research and market analysis, tailoring the user experience to the needs of veterinarians and pet owners.
