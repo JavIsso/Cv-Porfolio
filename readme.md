@@ -94,6 +94,17 @@ Product Design, Workflow Optimization, Scrum, Agile, Jira, Miro, Blender 3D, Ado
 
 ---
 
+### Product Designer | Finnegans | AR | 📱[FINNAPP Agro] (https://play.google.com/store/apps/details?id=com.finnapp.finnappagro)
+*March 2022* [Remote]
+
+- Designed a mobile-first solution to address connectivity limitations in rural field operations, enabling task tracking and stock control in offline environments.
+- Identified critical operational constraints affecting field workers and collaborated with partners to define a QR-based information retrieval system that functioned without network coverage.
+- Created end-to-end wireframes and user flows in Miro, translating complex field workflows into a simple, reliable user experience.
+
+**Tools:** Product Design, Wireframing, Miro, Agile, Saas B2B, Ag-Tech, Fintech.
+
+---
+
 ### Product Designer & 3D Team Leader | Game Cloud Network | CA
 *September 2021 - August 2023* [Remote]
 
