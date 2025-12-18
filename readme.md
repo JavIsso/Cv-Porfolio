@@ -14,7 +14,7 @@
 Product Designer with over 17 years of experience in multimedia design and creative direction, specializing in user-centered design, workflow optimization, and cross-functional collaboration. Skilled in Adobe XD, Blender, Unity, and various project management tools, with an intermediate English proficiency  (B1/B2) enabling effective communication in international settings. Passionate about creating engaging, functional, and visually compelling products that exceed user expectations. Proven ability to optimize processes, improve usability, and elevate the overall quality of digital products.
 
 ---
-## 🏆🎖️🥇🥈 Achievements
+## 🎖️ Achievements
 
 ### 🌐[LiRO](https://www.liro.pet/) – Online Pet Medical Records 
 
@@ -51,7 +51,7 @@ Product Design, Workflow Optimization, Scrum, Agile, Jira, Miro, Blender 3D, Ado
 
 ---
 
-## 💼🗂️ Professional Experience
+## 💼 Professional Experience
 
 ### Product Owner | TGA - Video games for corporate training | ARG
 *January 2025 - Present* [Remote]
