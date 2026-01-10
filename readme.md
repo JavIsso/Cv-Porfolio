@@ -56,7 +56,11 @@ Product Design, Workflow Optimization, Scrum, Agile, Jira, Miro, Blender 3D, Ado
 ### Product Owner | TGA - Video games for corporate training | ARG
 *January 2025 - Present* [Remote]
 
-- Contributed directly to the public release across web and mobile platforms: 🌐[Edenor - web](https://www.aventuraedenor.com/) | 👾[Edenor - Android](https://play.google.com/store/apps/details?id=com.tga.edenoraventuras&hl=es_AR) | 🍏 [Edenor - Apple](https://apps.apple.com/us/app/aventura-edenor/id6747455255)
+🌐[Edenor - WebGl](https://www.aventuraedenor.com/)
+👾[Edenor - Android](https://play.google.com/store/apps/details?id=com.tga.edenoraventuras&hl=es_AR)
+🍏 [Edenor - Apple](https://apps.apple.com/us/app/aventura-edenor/id6747455255)
+
+- Contributed directly to the public release across web and mobile platforms
 - Played a key role in the successful launch of a large-scale educational game for a major electric utility company in Buenos Aires, Argentina, actively supporting product readiness from conception to release.
 - Acted as the main product counterpart for the client, providing continuous guidance, alignment, and decision-making support throughout the project lifecycle, which proved critical for a smooth and successful launch.
 - Ensured product quality, usability, and clarity by closely collaborating with the client and internal teams, helping translate business and educational needs into a polished, market-ready experience.
@@ -71,7 +75,11 @@ Product Design, Workflow Optimization, Scrum, Agile, Jira, Miro, Blender 3D, Ado
 
 ### CEO Founder & Product Designer | LiRO - Online Pet Medical Records | ARG	
 *August 2019 - Present* [Hybrid]
-- 🔷[LinkedIn](https://www.linkedin.com/company/liro-pet/) | 🌐[LiRO.pet](http://liro.pet/) | 👾[LiRO - Playstore](https://play.google.com/store/apps/details?id=com.liro.app)
+
+🌐[LiRO.pet](http://liro.pet/)
+👾[LiRO - Playstore](https://play.google.com/store/apps/details?id=com.liro.app)
+🔷[LinkedIn](https://www.linkedin.com/company/liro-pet/)
+
 - Lead a multidisciplinary team of 4 collaborators, guiding product vision, prioritization, and execution across design, development, and content.
 - Designed and implemented the user experience and interface of a digital platform for pet medical records, enhancing animal health management.
 - Conducted user research and market analysis, tailoring the user experience to the needs of veterinarians and pet owners.
@@ -94,8 +102,12 @@ Product Design, Workflow Optimization, Scrum, Agile, Jira, Miro, Blender 3D, Ado
 
 ---
 
-### Product Designer | Finnegans | AR | 📱[FINNAPP Agro] (https://play.google.com/store/apps/details?id=com.finnapp.finnappagro)
-*March 2022* [Remote]
+### Product Designer | Finnegans | AR | 📱[FINNAPP Agro](https://play.google.com/store/apps/details?id=com.finnapp.finnappagro)
+*December 2021 - March 2022* [Remote]
+
+🌐[FinnApp - Site](https://www.finneg.com/ar/site/aplicaciones/)
+👾[Finnapp - Android](https://play.google.com/store/apps/details?id=com.finnapp.finnappagro&hl=es_AR)
+🍏[Finnapp - Apple](https://play.google.com/store/apps/details?id=com.finnapp.finnappagro&hl=es_AR)
 
 - Designed a mobile-first solution to address connectivity limitations in rural field operations, enabling task tracking and stock control in offline environments.
 - Identified critical operational constraints affecting field workers and collaborated with partners to define a QR-based information retrieval system that functioned without network coverage.
