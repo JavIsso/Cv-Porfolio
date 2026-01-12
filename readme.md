@@ -20,10 +20,13 @@ Product Designer with over 17 years of experience in multimedia design and creat
 
 **What:**
 Founded and led the product vision and execution of a digital platform replacing paper-based veterinary medical records with a centralized online system.
+
 **How:**
 Defined product strategy, UX architecture, and workflows; led a multidisciplinary team of 4 collaborators; worked closely with veterinarians to align the product with real-world operational needs.
+
 **Impact:**
 Enabled veterinarians to fully eliminate paper records, increased client return rates through automated vaccination and deworming reminders, and reduced in-clinic administrative time by over 50%.
+
 **Tech & Methods:**
 Product Strategy, UX/UI Design, Agile, Scrum, User Research, Figma, Jira, GitLab, Adobe Suite, ChatGPT, Gemini.
 
@@ -31,10 +34,13 @@ Product Strategy, UX/UI Design, Agile, Scrum, User Research, Figma, Jira, GitLab
 
 **What:**
 Led product ownership and delivery for large-scale gamified educational products, including the successful public launch of a multi-platform educational game.
+
 **How:**
 Acted as formal Product Owner and primary bridge between client, development, design, learning, and delivery teams; defined gameplay systems, documentation standards, and delivery processes.
+
 **Impact:**
 Achieved a smooth and successful launch across web and mobile platforms by ensuring product clarity, alignment, and readiness; significantly reduced delivery friction and rework through early issue detection and structured documentation.
+
 **Tech & Methods:**
 Product Ownership, Cross-functional Leadership, Agile, Jira, Miro, Figma, Documentation Frameworks.
 
@@ -42,10 +48,13 @@ Product Ownership, Cross-functional Leadership, Agile, Jira, Miro, Figma, Docume
 
 **What:**
 Led product design and 3D production for mobile games, overseeing end-to-end delivery across multiple titles.
+
 **How:**
 Supervised and coordinated a team of 6 3D artists, defined production workflows, and collaborated closely with project management and art direction to optimize pipelines.
+
 **Impact:**
 Reduced error margins and rework by standardizing asset production processes, improving delivery consistency and overall production efficiency.
+
 **Tech & Methods:**
 Product Design, Workflow Optimization, Scrum, Agile, Jira, Miro, Blender 3D, Adobe XD, Substance Painter.
 
@@ -56,9 +65,10 @@ Product Design, Workflow Optimization, Scrum, Agile, Jira, Miro, Blender 3D, Ado
 ### Product Owner | TGA - Video games for corporate training | ARG
 *January 2025 - Present* [Remote]
 
-🌐[Edenor - WebGl](https://www.aventuraedenor.com/)
-👾[Edenor - Android](https://play.google.com/store/apps/details?id=com.tga.edenoraventuras&hl=es_AR)
-🍏 [Edenor - Apple](https://apps.apple.com/us/app/aventura-edenor/id6747455255)
+🌐[Edenor - Site](https://www.edenor.com/noticias/aventura-edenor?utm_source=chatgpt.com)
+🖥️[Aventura Edenor - WebGl](https://www.aventuraedenor.com/)
+👾[Aventura Edenor - Android](https://play.google.com/store/apps/details?id=com.tga.edenoraventuras&hl=es_AR)
+🍏[Aventura Edenor - Apple](https://apps.apple.com/us/app/aventura-edenor/id6747455255)
 
 - Contributed directly to the public release across web and mobile platforms
 - Played a key role in the successful launch of a large-scale educational game for a major electric utility company in Buenos Aires, Argentina, actively supporting product readiness from conception to release.
